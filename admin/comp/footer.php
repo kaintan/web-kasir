@@ -1,8 +1,8 @@
 
 <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright &copy; <script>document.write(new Date().getFullYear());</script> XII PPLG 1 | Powered By XII PPLG 1.</strong>
-    All rights reserved. | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>XII PPLG 1</a>
+    <strong>Copyright &copy; <script>document.write(new Date().getFullYear());</script> XII PPLG 1 | Powered By Intan Tri Wardani.</strong>
+    All rights reserved. | Repost by <a href='https://instagram.com/intanndesu' title='intanndesu' target='_blank'>Intan Tri wardani</a>
     
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 1.0.0
